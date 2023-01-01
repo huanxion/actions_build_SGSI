@@ -113,7 +113,7 @@ jobs:
             
        - name: Packing SGSI Image
          run: |
-            echo "SGSI化处理完成"
+            echo "SGSI处理完成"
             cd SGSI-build-tool-11/11
             sudo bash makeimg.sh ${{ steps.var.outputs.make_type }}
             exit
