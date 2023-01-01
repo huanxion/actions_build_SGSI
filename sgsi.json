@@ -1,14 +1,14 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus8Pro/MP/OnePlus8ProHydrogen_15.H.35_OTA_0350_all_2103232117_5a455e79c52e47d2.zip",
-  "rom_name": "update.zip",
-  "pack_sgsi": "SGSI.zip",
+  "rom_url": "https://du1.devuploads.com/d/3ajvfu3p5mo5kx664ggb4yo4j6m7dk7b4cdl6qwwtxuu4wuaat5c2i3jmz3jl7icp6pcm7ts/XTBUI-v14.0.22.12.8-Sweet-BETA.zip",
+  "rom_name": "XTBUI-v14.0.22.12.8-Sweet-BETA.zip",
+  "pack_sgsi": "huanxion-v14.0.22.12.8-Wayne-Dev.zip",
   "make_type": "AB",
-  "rom_type": "",
+  "rom_type": "General",
   "light_fix": true,
   "bug_fix": true,
-  "version": "11",
-  "upload_transfer": true,
-  "upload_release": false,
+  "version": "13",
+  "upload_transfer": false,
+  "upload_release": true,
   "use_7zip": false,
   "use_zip": true
 }
